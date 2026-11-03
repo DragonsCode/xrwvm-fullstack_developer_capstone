@@ -1,0 +1,7 @@
+{
+  "name": "capstone-lint-tools",
+  "private": true,
+  "devDependencies": {
+    "jshint": "2.13.6"
+  }
+}
